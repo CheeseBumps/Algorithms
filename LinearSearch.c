@@ -1,6 +1,5 @@
-#include<iostream>
-
-using namespace std;
+#include<stdio.h>
+#include<bool.h>
 
 int main()
 {
